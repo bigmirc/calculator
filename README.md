@@ -1,5 +1,9 @@
 # caluclator
 
+## Features
+
+basic calculator functionality
+
 ## Project setup
 ```
 npm install
